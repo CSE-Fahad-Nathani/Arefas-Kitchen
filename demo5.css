@@ -83,7 +83,7 @@
 
 #body2{
     background-color: black;
-    background-image: url(/bg.jpg);
+    background-image: url(bg.jpg);
     height: 95vh;
     width: 100%;
     background-position: center;
@@ -94,7 +94,7 @@
 
 #body3{
     background-color: white;
-    background-image: url(/billBG.jpg);
+    background-image: url(billBG.jpg);
     height: 95vh;
     width: 100%;
     background-position: center;
